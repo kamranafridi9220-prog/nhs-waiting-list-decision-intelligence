@@ -39,6 +39,19 @@ All analysis is based exclusively on publicly published statistics.
 
 ---
 
+## Visual Evidence
+
+### National Waiting List Trend
+![Total Waiting List](images/01_total_waiting_by_month.png)
+
+### Pressure Score Trend
+![Pressure Score](images/05_pressure_score_trend.png)
+
+### High-Risk Specialties (Heatmap)
+![Specialty Risk Heatmap](images/07_specialty_risk_heatmap.png)
+
+---
+
 ## Decision-Support Framework
 
 This project introduces:
